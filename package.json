@@ -1,0 +1,16 @@
+{
+  "name": "cscraper",
+  "version": "1.0.0",
+  "description": "all in one comic scraping tools",
+  "main": "cscraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^3.2.10"
+  }
+}
